@@ -1,0 +1,1127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BE9B284E-C7E3-4878-9E16-57CAE7650F11}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Rent_A_Car</RootNamespace>
+    <AssemblyName>Rent A Car</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>..\..\..\..\Downloads\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="araba_sec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="araba_sec.Designer.cs">
+      <DependentUpon>araba_sec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="aracekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="aracekle.Designer.cs">
+      <DependentUpon>aracekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Araçlarım.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Araçlarım.Designer.cs">
+      <DependentUpon>Araçlarım.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ayarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ayarlar.Designer.cs">
+      <DependentUpon>Ayarlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bakima_al.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bakima_al.Designer.cs">
+      <DependentUpon>bakima_al.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bakimservisi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="bakimservisi.Designer.cs">
+      <DependentUpon>bakimservisi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Bildiri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bildiri.Designer.cs">
+      <DependentUpon>Bildiri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="carihareketekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="carihareketekle.Designer.cs">
+      <DependentUpon>carihareketekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="carikartislemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="carikartislemleri.Designer.cs">
+      <DependentUpon>carikartislemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\kimlikDogrulama\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="custom_alert_notifications\Bildiri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="database.cs" />
+    <Compile Include="destek.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="destek.Designer.cs">
+      <DependentUpon>destek.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ekstraEklemeler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ekstraEklemeler.Designer.cs">
+      <DependentUpon>ekstraEklemeler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="firmakasasi.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="firmakasasi.Designer.cs">
+      <DependentUpon>firmakasasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gecmisbakimlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gecmisbakimlar.Designer.cs">
+      <DependentUpon>gecmisbakimlar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gecmis_kiralar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gecmis_kiralar.Designer.cs">
+      <DependentUpon>gecmis_kiralar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="hatirlatmalarim.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="hatirlatmalarim.Designer.cs">
+      <DependentUpon>hatirlatmalarim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ikinciSofor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ikinciSofor.Designer.cs">
+      <DependentUpon>ikinciSofor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ikinciSoforSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ikinciSoforSec.Designer.cs">
+      <DependentUpon>ikinciSoforSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="istatistik.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="istatistik.Designer.cs">
+      <DependentUpon>istatistik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Kilitle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kilitle.Designer.cs">
+      <DependentUpon>Kilitle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kiradakiler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kiradakiler.Designer.cs">
+      <DependentUpon>kiradakiler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kiraya_ver.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kiraya_ver.Designer.cs">
+      <DependentUpon>kiraya_ver.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kredikartibilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kredikartibilgileri.Designer.cs">
+      <DependentUpon>kredikartibilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="kullanıcı_ayarları.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="kullanıcı_ayarları.Designer.cs">
+      <DependentUpon>kullanıcı_ayarları.cs</DependentUpon>
+    </Compile>
+    <Compile Include="mevcut_rezervler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="mevcut_rezervler.Designer.cs">
+      <DependentUpon>mevcut_rezervler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteribilgileriduzenle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteribilgileriduzenle.Designer.cs">
+      <DependentUpon>musteribilgileriduzenle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteriGecmisKiralama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteriGecmisKiralama.Designer.cs">
+      <DependentUpon>musteriGecmisKiralama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musterikredikartibilgileri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musterikredikartibilgileri.Designer.cs">
+      <DependentUpon>musterikredikartibilgileri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteriturubelirle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteriturubelirle.Designer.cs">
+      <DependentUpon>musteriturubelirle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteri_ekle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteri_ekle.Designer.cs">
+      <DependentUpon>musteri_ekle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="musteri_sec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="musteri_sec.Designer.cs">
+      <DependentUpon>musteri_sec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musterilerim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musterilerim.Designer.cs">
+      <DependentUpon>Musterilerim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="netControl.cs" />
+    <Compile Include="OPALFATURA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OPALFATURA.Designer.cs">
+      <DependentUpon>OPALFATURA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ortapanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ortapanel.Designer.cs">
+      <DependentUpon>ortapanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rezerve_et.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rezerve_et.Designer.cs">
+      <DependentUpon>rezerve_et.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SigortaMuayeneKasko.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SigortaMuayeneKasko.Designer.cs">
+      <DependentUpon>SigortaMuayeneKasko.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sozlesmeYap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sozlesmeYap.Designer.cs">
+      <DependentUpon>sozlesmeYap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teslimal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="teslimal.Designer.cs">
+      <DependentUpon>teslimal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="teslimatagorearaclar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="teslimatagorearaclar.Designer.cs">
+      <DependentUpon>teslimatagorearaclar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="yazdir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="yazdir.Designer.cs">
+      <DependentUpon>yazdir.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="araba_sec.resx">
+      <DependentUpon>araba_sec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="aracekle.resx">
+      <DependentUpon>aracekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Araçlarım.resx">
+      <DependentUpon>Araçlarım.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ayarlar.resx">
+      <DependentUpon>Ayarlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bakima_al.resx">
+      <DependentUpon>bakima_al.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bakimservisi.resx">
+      <DependentUpon>bakimservisi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bildiri.resx">
+      <DependentUpon>Bildiri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="carihareketekle.resx">
+      <DependentUpon>carihareketekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="carikartislemleri.resx">
+      <DependentUpon>carikartislemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="destek.resx">
+      <DependentUpon>destek.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ekstraEklemeler.resx">
+      <DependentUpon>ekstraEklemeler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="firmakasasi.resx">
+      <DependentUpon>firmakasasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gecmisbakimlar.resx">
+      <DependentUpon>gecmisbakimlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gecmis_kiralar.resx">
+      <DependentUpon>gecmis_kiralar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="hatirlatmalarim.resx">
+      <DependentUpon>hatirlatmalarim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ikinciSofor.resx">
+      <DependentUpon>ikinciSofor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ikinciSoforSec.resx">
+      <DependentUpon>ikinciSoforSec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="istatistik.resx">
+      <DependentUpon>istatistik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kilitle.resx">
+      <DependentUpon>Kilitle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kiradakiler.resx">
+      <DependentUpon>kiradakiler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kiraya_ver.resx">
+      <DependentUpon>kiraya_ver.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kredikartibilgileri.resx">
+      <DependentUpon>kredikartibilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kullanıcı_ayarları.resx">
+      <DependentUpon>kullanıcı_ayarları.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="mevcut_rezervler.resx">
+      <DependentUpon>mevcut_rezervler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteribilgileriduzenle.resx">
+      <DependentUpon>musteribilgileriduzenle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteriGecmisKiralama.resx">
+      <DependentUpon>musteriGecmisKiralama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musterikredikartibilgileri.resx">
+      <DependentUpon>musterikredikartibilgileri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteriturubelirle.resx">
+      <DependentUpon>musteriturubelirle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteri_ekle.resx">
+      <DependentUpon>musteri_ekle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="musteri_sec.resx">
+      <DependentUpon>musteri_sec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musterilerim.resx">
+      <DependentUpon>Musterilerim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OPALFATURA.resx">
+      <DependentUpon>OPALFATURA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ortapanel.resx">
+      <DependentUpon>ortapanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rezerve_et.resx">
+      <DependentUpon>rezerve_et.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SigortaMuayeneKasko.resx">
+      <DependentUpon>SigortaMuayeneKasko.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sozlesmeYap.resx">
+      <DependentUpon>sozlesmeYap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teslimal.resx">
+      <DependentUpon>teslimal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="teslimatagorearaclar.resx">
+      <DependentUpon>teslimatagorearaclar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="yazdir.resx">
+      <DependentUpon>yazdir.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Connected Services\kimlikDogrulama\KPSPublic.wsdl" />
+    <None Include="Connected Services\kimlikDogrulama\Rent_A_Car.kimlikDogrulama.TCKimlikNoDogrulaResponse.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_ic_close_48px_352270 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_ic_close_48px_352270.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_fullscreen_black_280259.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sdsd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_ic_arrow_back_48px_352020.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sdsd1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_icons_user_1564534.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_icons_user_1564534 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_icons_user_1564534 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_transportation_car_103732.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_icon-notification_2867931.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_20_171416.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_calendar_103430.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_calendar_2628461.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_finance-15_808664.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_lock-safe-dollar-currency_2009870.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_maintenance_2639855.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_backup_171273.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_lock-70px_510866.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_business_finance_money-08_2784241.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_statistics_2427699.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user-avatar-human-admin-login_2203549.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PNGPIX-COM-Mercedes-Benz-Back-View-White-Car-PNG-Image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Red_ball_132008.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Green_ball_131927.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Pink_ball_132085.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Black_ball_131998.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_client_1931212.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user_1370025.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Customers_Filled_657911.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_free-17_463011.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_1_Forbidden_2722395 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_maintenance_60190.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Clock4_34216.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_1_Forbidden_2722395 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_car-front-02_1988880.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_car-front-02_1988880 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_car-front-02_1988880 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_car-front-02_19888801.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_property-agent-003_1851812.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_property-agent-003_18518121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_autoship_47976.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Money-Increase_379473.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Money-Increase_379473 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_print_173079.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_calendar-date-appontment-booking-reservation_2075803.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Artboard_1_1790655.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_order-history_49596.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_order-history_49596 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_f-cross_256_282471.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_muscle_car_44654.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_cono_512542.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_simpline_21_2305593.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_current-work_54198.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_current-work_54198 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Group_Meeting_Light_80844.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Customer_Male_Light_80830.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Group_Meeting_Light_808441.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_House-Rent_88861.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_edit-find-replace_118921.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_sign-add_299068.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_credit_card_17221.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_telegram_519183.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_clock_edit_35865.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Print_56266.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Remove_27874.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_cartoon-03_899408 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_car_406746.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_cartoon-03_899408 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_reminders_ios7_ios_7_170975.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_JD-12_2224269.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_calendar-clock_299096.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_calendar-alt_285665.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Safe_37061.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_maintenance_60190 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_advantage_diagram_1034357.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_lock_285646.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_basics-22_296812.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_close_309090.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_199_CircledPlus_183316.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_print_326675.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_ic_history_48px_352426.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_jee01-01_2180878.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_jee01-01_2180878 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_credit_card_172588.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_message_172503.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Streamline-22_185042.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_business_finance_money-30_2784263.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Customers_657909.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_ic_account_balance_wallet_48px_351999.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_cancel-2_309095.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_toolbox_1515191.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_history_1608929.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_20_2739101.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_equipmentrental_2318443.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_payment_1954199.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_print_172530.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_common-calendar-month-glyph_763272.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_close_3090901.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_ic_directions_car_48px_352315.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_maintenance_2639855 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_interface-78_809271.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_contacts3_216476.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_transportation_car_103732 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_reminder_322492.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_delivery_2639804.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_safe__safety__locker__protection_2536713.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_maintenance_2639855 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_lock_172497.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_102_111044.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_statistics_2427699 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fffsd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fffsd1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fffsdkk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dsfdsfds.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dsafasd222.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12132.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12132cdc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12132cdc1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12132cdc2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_printer-error_118954.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\kimlikDogrulama\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\kimlikDogrulama\configuration91.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\kimlikDogrulama\configuration.svcinfo" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\kimlikDogrulama\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user_male2_172626.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user_male2_1726261.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user_male2_1726262.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_laptop_286691.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_users_1902261.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_carwheel_1055097.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Citycons_car_1342944.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_truck_1054949.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Settings-5_379393.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Certificate_877014.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transparent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user_male2_1726263.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_carwheel_10550971.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Settings-5_3793931.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Certificate_8770141.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transparent1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\opal-rent-a-carr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transparent2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transparent3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dsdada.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adsızdsdsdcccc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user-avatar-human-admin-login_22035491.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_102_1110441.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user-avatar-human-admin-login_22035492.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Citycons_car_13429441.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_users_19022611.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Settings-5_379393 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_carwheel_1055097 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_truck_10549491.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Certificate_877014 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Home01_928434.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_basics-22_2968121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_ic_close_48px_3522701.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_exit_fullscreen_black_280257.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_exit_fullscreen_black_280257 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\transparent4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_ic_arrow_back_48px_3520201.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_ic_arrow_back_48px_3520202.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_settings_1054981 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_settings_1054981.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_simpline_34_2305626.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AdsızdsdsdyatayDDD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_menu-alt_134216.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_sign-add_2990681.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_sign-add_2990682.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_compose_1055085.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\customers.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_13_330398.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_creditcard_1055079.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_minus_1645995.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Smartphone-Message_379394.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Artboard_1_17906551.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_icon-68_667365.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_printer_289614.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_sign-add_2990683.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_creditcard_10550791.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_13_3303981.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_compose_10550851.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rent1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_minus_16459951.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Smartphone-Message_3793941.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_Artboard_1_17906552.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_icon-68_6673651.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_printer_2896141.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_User_Customers_1218712.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bugatti %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cars-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_flat-style-circle-add_1312548 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_flat-style-circle-add_1312548 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_add_46776.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\house.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_dolly_1055070.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\for-rent.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reception.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x-button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\193015.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_cono_5125421.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medical-history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clinic-history.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\forbidden.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_stop_1054967.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallet-budget-tracker_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_progressbar_645451.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_lock_1724971.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_user-avatar-human-admin-login_22035493.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_SEO-11_2588772.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_SEO-11_25887721.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Adsızdsdsdyatay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\if_2_330395.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\x-button1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

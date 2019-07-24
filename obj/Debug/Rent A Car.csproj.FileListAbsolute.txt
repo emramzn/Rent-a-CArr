@@ -1,0 +1,563 @@
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\bin\Debug\Rent A Car.exe.config
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\bin\Debug\Rent A Car.exe
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\bin\Debug\Rent A Car.pdb
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\obj\Debug\Rent A Car.exe
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\obj\Debug\Rent A Car.pdb
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+c:\users\kvlyu\documents\visual studio 2015\Projects\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Müşterilerim.resources
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Müşterilerim.resources
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\obj\Debug\Rent A Car.csproj.CoreCompileInputs.cache
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\Rent A Car\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Müşterilerim.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+C:\Users\msı\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Müşterilerim.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.csproj.CoreCompileInputs.cache
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Müşterilerim.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+C:\Users\msı\Desktop\PROJELERİM\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Müşterilerim.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\kvlyu\Desktop\Yeni Klasör\Rent A Car(ad Standartlı)\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+C:\Users\emram\Desktop\Rent A Car(ad Standartlı)\Rent A Car\obj\Debug\Rent_A_Car.musteriGecmisKiralama.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriGecmisKiralama.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.CoreCompileInputs.cache
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Musterilerim.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriGecmisKiralama.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Musterilerim.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.OrtaPanel.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakimservisi.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.firmakasasi.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.istatistik.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimatagorearaclar.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.destek.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.hatirlatmalarim.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Ayarlar.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe.config
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.pdb
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Ayarlar.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakimservisi.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.destek.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.firmakasasi.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.hatirlatmalarim.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.istatistik.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriGecmisKiralama.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Musterilerim.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ortapanel.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimatagorearaclar.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.CoreCompileInputs.cache
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.exe
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.pdb
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ekstraEklemeler.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSofor.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSoforSec.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.sozlesmeYap.resources
+F:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.OPALFATURA.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe.config
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.exe
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.pdb
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.pdb
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Ayarlar.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakimservisi.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.destek.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ekstraEklemeler.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.firmakasasi.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.hatirlatmalarim.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSofor.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSoforSec.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.istatistik.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriGecmisKiralama.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Musterilerim.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.OPALFATURA.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ortapanel.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.sozlesmeYap.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimatagorearaclar.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+D:\SONNNNNNNN BASKI\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Ayarlar.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakimservisi.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.destek.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ekstraEklemeler.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.firmakasasi.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.hatirlatmalarim.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSofor.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSoforSec.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.istatistik.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriGecmisKiralama.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Musterilerim.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.OPALFATURA.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ortapanel.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.sozlesmeYap.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimatagorearaclar.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.CoreCompileInputs.cache
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiradakiler.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)-20180208T213835Z-001\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.SigortaMuayeneKasko.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Ayarlar.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakimservisi.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.destek.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ekstraEklemeler.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.firmakasasi.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.hatirlatmalarim.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSofor.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSoforSec.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.istatistik.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiradakiler.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriGecmisKiralama.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Musterilerim.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.OPALFATURA.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ortapanel.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.SigortaMuayeneKasko.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.sozlesmeYap.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimatagorearaclar.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\kvlyu\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Ayarlar.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakimservisi.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.destek.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ekstraEklemeler.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.firmakasasi.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.hatirlatmalarim.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSofor.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSoforSec.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.istatistik.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiradakiler.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriGecmisKiralama.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Musterilerim.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.OPALFATURA.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ortapanel.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.SigortaMuayeneKasko.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.sozlesmeYap.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimatagorearaclar.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Bildiri.resources
+C:\Users\kvlyu\Desktop\OPAL\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kullanıcı_ayarları.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Ayarlar.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakimservisi.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Bildiri.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.destek.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ekstraEklemeler.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.firmakasasi.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.hatirlatmalarim.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSofor.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSoforSec.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.istatistik.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiradakiler.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kullanıcı_ayarları.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.OPALFATURA.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ortapanel.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.SigortaMuayeneKasko.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.sozlesmeYap.resources
+C:\Users\emram\Desktop\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimatagorearaclar.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Ayarlar.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakimservisi.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Bildiri.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.destek.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ekstraEklemeler.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.firmakasasi.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.hatirlatmalarim.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSofor.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSoforSec.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.istatistik.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiradakiler.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kullanıcı_ayarları.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriGecmisKiralama.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Musterilerim.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.OPALFATURA.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ortapanel.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.SigortaMuayeneKasko.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.sozlesmeYap.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimatagorearaclar.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.CoreCompileInputs.cache
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.pdb
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe.config
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\bin\Debug\Rent A Car.pdb
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csprojResolveAssemblyReference.cache
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.araba_sec.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.aracekle.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Araçlarım.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Ayarlar.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakima_al.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.bakimservisi.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Bildiri.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carihareketekle.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.carikartislemleri.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.destek.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ekstraEklemeler.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.firmakasasi.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Form1.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmisbakimlar.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.gecmis_kiralar.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.hatirlatmalarim.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSofor.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ikinciSoforSec.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.istatistik.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Kilitle.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiradakiler.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kiraya_ver.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kredikartibilgileri.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.kullanıcı_ayarları.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.mevcut_rezervler.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteribilgileriduzenle.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriGecmisKiralama.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musterikredikartibilgileri.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteriturubelirle.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_ekle.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.musteri_sec.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Musterilerim.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.OPALFATURA.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.ortapanel.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.Properties.Resources.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.rezerve_et.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.SigortaMuayeneKasko.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.sozlesmeYap.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimal.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.teslimatagorearaclar.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent_A_Car.yazdir.resources
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.GenerateResource.Cache
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.csproj.CoreCompileInputs.cache
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.exe
+C:\Users\emram\Desktop\KARIŞIK HERŞEY\SOFTWARE REQUIREMENT\Rent A Car(OPAL)\Rent A Car\obj\Debug\Rent A Car.pdb
